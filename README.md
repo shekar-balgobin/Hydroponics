@@ -17,7 +17,7 @@
 - Seedling heat mat
 - Toothpick labels
 
-![Tray](Image/2023-01-18/Tray.jpg)
+![Tray](Image/Tray.jpg)
 
 ## Maintenance
 
@@ -40,5 +40,6 @@ The water level should be topped up at least once a day to just above the mesh w
 |--|--
 |2023-01-16|Initial.
 |2023-01-17|No change.
-|2023-01-18|Life! The [cucumber](Image/2023-01-18//Cucumber.jpg), [raddish](Image/2023-01-18/Radish.jpg) and [rocket](Image/2023-01-18//Rocket.jpg) have sprouted.
-|2023-01-19|[Red luttce](Image/2023-01-18/RedLettuce.jpg) has sprouted.
+|2023-01-18|Life! [Cucumber](Image/2023-01-18//Cucumber.jpg), [raddish](Image/2023-01-18/Radish.jpg) and [rocket](Image/2023-01-18//Rocket.jpg) have sprouted.
+|2023-01-19|[Red luttce](Image/2023-01-19/RedLettuce.jpg) has sprouted.
+|2023-01-20|[Beetroot](Image/2023-01-20/Beetroot.jpg), [spring onion](Image/2023-01-20//SpringOnion.jpg) and [Tomato (GS)](Image/2023-01-20//Tomato(GS).jpg) have sprouted.
