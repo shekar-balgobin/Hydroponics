@@ -11,7 +11,7 @@
     - Rocket
     - Spring onion
     - Tomato - Golden Sunrise & Roma
-- Bucket
+- Small bucket
 - Hydroponic sponges
 - Seed sprouting tray
 - Seedling heat mat
@@ -43,3 +43,17 @@ The water level should be topped up at least once a day to just above the mesh w
 |2023-01-18|Life! [Cucumber](Image/2023-01-18//Cucumber.jpg), [raddish](Image/2023-01-18/Radish.jpg) and [rocket](Image/2023-01-18//Rocket.jpg) have sprouted.
 |2023-01-19|[Red luttce](Image/2023-01-19/RedLettuce.jpg) has sprouted.
 |2023-01-20|[Beetroot](Image/2023-01-20/Beetroot.jpg), [spring onion](Image/2023-01-20//SpringOnion.jpg) and [Tomato (GS)](Image/2023-01-20//Tomato(GS).jpg) have sprouted.
+|2023-01-21|[Green Lettuce](Image/2023-01-21/GreenLettuce.jpg) and [Tomato (R)](Image/2023-01-21//Tomato(R).jpg) have sprouted.
+
+## Stage 2
+
+- Large bucket
+- Nutrients
+- PH down
+- PH meter
+- PH up
+- Pipets
+- Seed sprouting tray
+- Seedling heat mat
+- Seedlings from stage 1
+- TDS meter
