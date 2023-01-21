@@ -1,6 +1,15 @@
 # Seed Germination
 
-## Equipment
+![Tray](Image/Tray.jpg)
+
+## Maintenance
+
+The tray must be kept away from direct sunlight at the start of the germination period. I'm guessing this could be as much as 7-14 days. Once we have leaves we can move to direct sunlight to start the photo synthesis process.
+The water level should be topped up at least once a day to just above the mesh whilst not submerging the seed.
+
+## Stage 1
+
+### Equipment
 
 - Assortment of seeds
     - Beetroot
@@ -17,14 +26,7 @@
 - Seedling heat mat
 - Toothpick labels
 
-![Tray](Image/Tray.jpg)
-
-## Maintenance
-
-The tray must be kept away from direct sunlight at the start of the germination period. I'm guessing this could be as much as 7-14 days. Once we have leaves we can move to direct sunlight to start the photo synthesis process.
-The water level should be topped up at least once a day to just above the mesh whilst not submerging the seed.
-
-## Stage 1
+### Recipe
 
 1. Create paper labels for each type of seed and attach to a toothpick label. This will later be used to identify the seeds when placed in the tray.
 2. Partition the hydroponic sponges into rows so that each row will contain the same type of seed. I decided to use 4 seeds for each type to increase my chances of success. There are 10 types of seed, therefore I have 40 seeds in total.
@@ -34,7 +36,7 @@ The water level should be topped up at least once a day to just above the mesh w
 6. Arrange the rows evenly on the tray mesh.
 7. Place the tray on the mat and store in a warm dark area away from sunlight. Cover the tray if needed.
 
-## Results
+### Results
 
 |Date| Comment
 |--|--
@@ -47,6 +49,8 @@ The water level should be topped up at least once a day to just above the mesh w
 
 ## Stage 2
 
+### Equipment
+
 - Large bucket
 - Nutrients
 - PH down
@@ -57,3 +61,10 @@ The water level should be topped up at least once a day to just above the mesh w
 - Seedling heat mat
 - Seedlings from stage 1
 - TDS meter
+
+### Recipe
+
+### Results
+
+|Date| Comment
+|--|--
