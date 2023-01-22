@@ -1,5 +1,5 @@
 # Contents
 
-[Seed Germination](SeedGermination)
+[Seed Germination](SeedGermination.md)
 
 [pH Meter Calibration](pHMeterCalibrattion.md)
