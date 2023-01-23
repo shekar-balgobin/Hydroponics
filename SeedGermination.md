@@ -47,6 +47,7 @@ The water level should be topped up at least once a day to just above the mesh w
 |2023-01-20|[Beetroot](Image/2023-01-20/Beetroot.jpg), [spring onion](Image/2023-01-20//SpringOnion.jpg) and [Tomato (GS)](Image/2023-01-20//Tomato(GS).jpg) have sprouted.
 |2023-01-21|[Green Lettuce](Image/2023-01-21/GreenLettuce.jpg) and [Tomato (R)](Image/2023-01-21//Tomato(R).jpg) have sprouted.
 |2023-01-22|Two of the three rocket seeds appear to have died.
+|2023-01-23|Transition all seedlings to stage 2 (even if they haven't sprouted).
 
 ## Stage 2
 
@@ -65,7 +66,18 @@ The water level should be topped up at least once a day to just above the mesh w
 
 ### Recipe
 
+We will be introducing the seedlings to nutients at half strength.
+
+1. Fill the bucker with 2 liters or water.
+2. Add 1ml of FloraGro (green) nutrient to water and mix.
+3. Add 1ml of FloraMicro (purple) nutrient to water and mix.
+4. Add 1ml of FloraBloom (red) nutrient to water and mix.
+5. Arrange the seedlings evenly on the tray mesh.
+6. Fill the tray so that the bottoms of all the sponges have water without drowning the roots.
+7. Place the tray on the mat and store in a warm area in direct sunlight.
+
 ### Results
 
 |Date| Comment
 |--|--
+|2023-01-23|Initial.
