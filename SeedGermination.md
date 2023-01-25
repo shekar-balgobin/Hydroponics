@@ -69,12 +69,14 @@ The water level should be topped up at least once a day to just above the mesh w
 We will be introducing the seedlings to nutients at half strength.
 
 1. Fill the bucker with 2 liters or water.
-2. Add 1ml of FloraGro (green) nutrient to water and mix.
-3. Add 1ml of FloraMicro (purple) nutrient to water and mix.
-4. Add 1ml of FloraBloom (red) nutrient to water and mix.
-5. Arrange the seedlings evenly on the tray mesh.
-6. Fill the tray so that the bottoms of all the sponges have water without drowning the roots.
-7. Place the tray on the mat and store in a warm area in direct sunlight.
+2. Measure the pH of the water and use pH up or down accordingly. Target a pH of 6.0. My reading is 7.9 which I find a bit high.
+3. Add 1ml of FloraGro (green) nutrient to water and mix.
+4. Add 1ml of FloraMicro (purple) nutrient to water and mix.
+5. Add 1ml of FloraBloom (red) nutrient to water and mix.
+6. Measure the EC/ppm of the nutrients. Target a EC/ppm of 2400/1200.
+7. Arrange the seedlings evenly on the tray mesh.
+8. Fill the tray so that the bottoms of all the sponges have water without drowning the roots.
+9. Place the tray on the mat and store in a warm area in direct sunlight.
 
 ### Results
 
