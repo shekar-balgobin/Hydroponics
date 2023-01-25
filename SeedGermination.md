@@ -82,3 +82,4 @@ We will be introducing the seedlings to nutients at half strength.
 |--|--
 |2023-01-23|Initial.
 |2023-01-24|The seeds that previosuly sprouted are now reaching toward the light. I've rotated the tray to see if they track the sunlight.
+|2023-01-25|The skies were dark today, so nothing eventful happened.
