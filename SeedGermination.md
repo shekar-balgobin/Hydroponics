@@ -68,7 +68,7 @@ The water level should be topped up at least once a day to just above the mesh w
 
 We will be introducing the seedlings to nutients at half strength.
 
-1. Fill the bucker with 2 liters or water.
+1. Fill the bucket with 2 liters or water.
 2. Measure the pH of the water and use pH up or down accordingly. Target a pH of 6.0. My reading is 7.9 which I find a bit high.
 3. Add 1ml of FloraGro (green) nutrient to water and mix.
 4. Add 1ml of FloraMicro (purple) nutrient to water and mix.
@@ -85,3 +85,4 @@ We will be introducing the seedlings to nutients at half strength.
 |2023-01-23|Initial.
 |2023-01-24|The seeds that previosuly sprouted are now reaching toward the light. I've rotated the tray to see if they track the sunlight.
 |2023-01-25|The skies were dark today, so nothing eventful happened.
+|2023-01-26|Nothing to report.
