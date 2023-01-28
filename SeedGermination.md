@@ -68,15 +68,17 @@ The water level should be topped up at least once a day to just above the mesh w
 
 We will be introducing the seedlings to nutients at half strength.
 
-1. Fill the bucket with 2 liters or water.
-2. Measure the pH of the water and use pH up or down accordingly. Target a pH of 6.0. My reading is 7.9 which I find a bit high.
-3. Add 1ml of FloraGro (green) nutrient to water and mix.
-4. Add 1ml of FloraMicro (purple) nutrient to water and mix.
-5. Add 1ml of FloraBloom (red) nutrient to water and mix.
-6. Measure the EC/ppm of the nutrients. Target a EC/ppm of 2400/1200.
+1. Fill the bucket with 2 litres or water.
+2. Add 1ml of FloraGro (green) nutrient to water and mix.
+3. Add 1ml of FloraMicro (purple) nutrient to water and mix.
+4. Add 1ml of FloraBloom (red) nutrient to water and mix.
+5. Measure the pH of the water and use pH up or down accordingly. Target a pH of 6.0.
+6. Measure the EC/ppm of the nutrients.
 7. Arrange the seedlings evenly on the tray mesh.
 8. Fill the tray so that the bottoms of all the sponges have water without drowning the roots.
 9. Place the tray on the mat and store in a warm area in direct sunlight.
+10. My pH reading after mixing the solution is 6.5 so I left it as is. We can use Ph up/down if needed.
+11. My EC reading is 1600.
 
 ### Results
 
@@ -86,3 +88,5 @@ We will be introducing the seedlings to nutients at half strength.
 |2023-01-24|The seeds that previosuly sprouted are now reaching toward the light. I've rotated the tray to see if they track the sunlight.
 |2023-01-25|The skies were dark today, so nothing eventful happened.
 |2023-01-26|Nothing to report.
+|2023-01-27|I mixed another 2 litres of nutrient.
+|2023-01-28|We have at least one of every type of seeding sprouting.
