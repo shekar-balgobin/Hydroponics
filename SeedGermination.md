@@ -91,3 +91,4 @@ We will be introducing the seedlings to nutients at half strength.
 |2023-01-27|I mixed another 2 litres of nutrient.
 |2023-01-28|We have at least one of every type of seeding sprouting.
 |2023-01-29|Nothing to report.
+|2023-01-30|Nothing to report.
