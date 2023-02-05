@@ -68,10 +68,10 @@ The water level should be topped up at least once a day to just above the mesh w
 
 We will be introducing the seedlings to nutients at half strength.
 
-1. Fill the bucket with 2 litres or water.
-2. Add 1ml of FloraGro (green) nutrient to water and mix.
-3. Add 1ml of FloraMicro (purple) nutrient to water and mix.
-4. Add 1ml of FloraBloom (red) nutrient to water and mix.
+1. Fill the bucket with 2 litres or water. See the back of the bottles for nutrient concentration.
+2. Add 2ml of FloraGro (green) nutrient to water and mix.
+3. Add 2ml of FloraMicro (purple) nutrient to water and mix.
+4. Add 2ml of FloraBloom (red) nutrient to water and mix.
 5. Measure the pH of the water and use pH up or down accordingly. Target a pH of 6.0.
 6. Measure the EC/ppm of the nutrients.
 7. Arrange the seedlings evenly on the tray mesh.
@@ -95,3 +95,6 @@ We will be introducing the seedlings to nutients at half strength.
 |2023-01-31|I may have damaged one of the cucumber plants by bening the stalk. Let's see if it recovers or dies.
 |2023-02-01|Nothing to report.
 |2023-02-02|Nothing to report.
+|2023-02-03|Nothing to report.
+|2023-02-04|I mixed another 2 litres of nutrient.
+|2023-02-05|Nothing to report.
