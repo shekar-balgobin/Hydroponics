@@ -98,3 +98,4 @@ We will be introducing the seedlings to nutients at half strength.
 |2023-02-03|Nothing to report.
 |2023-02-04|I mixed another 2 litres of nutrient.
 |2023-02-05|Nothing to report.
+|2023-02-06|I wanted to transplant some of the seedlings to a trough but they haven't arrived.
