@@ -101,3 +101,4 @@ We will be introducing the seedlings to nutients at half strength.
 |2023-02-06|I wanted to transplant some of the seedlings to a trough but they haven't arrived yet. They are expected some time this week.
 |2023-02-07|Nothing to report.
 |2023-02-08|Nothing to report.
+|2023-02-09|Nothing to report.
