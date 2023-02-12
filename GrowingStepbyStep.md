@@ -38,16 +38,16 @@ The water level should be topped up at least once a day to just above the mesh w
 
 ### Results
 
-|Date| Comment
-|--|--
-|2023-01-16|Initial.
-|2023-01-17|No change.
-|2023-01-18|Life! [Cucumber](Image/2023-01-18//Cucumber.jpg), [raddish](Image/2023-01-18/Radish.jpg) and [rocket](Image/2023-01-18//Rocket.jpg) have sprouted.
-|2023-01-19|[Red luttce](Image/2023-01-19/RedLettuce.jpg) has sprouted.
-|2023-01-20|[Beetroot](Image/2023-01-20/Beetroot.jpg), [spring onion](Image/2023-01-20//SpringOnion.jpg) and [Tomato (GS)](Image/2023-01-20//Tomato(GS).jpg) have sprouted.
-|2023-01-21|[Green Lettuce](Image/2023-01-21/GreenLettuce.jpg) and [Tomato (R)](Image/2023-01-21//Tomato(R).jpg) have sprouted.
-|2023-01-22|Two of the three rocket seeds appear to have died.
-|2023-01-23|Transition all seedlings to stage 2 (even if they haven't sprouted).
+Date|Comment
+--|--
+2023-01-16|Initial.
+2023-01-17|No change.
+2023-01-18|Life! [Cucumber](Image/2023-01-18//Cucumber.jpg), [raddish](Image/2023-01-18/Radish.jpg) and [rocket](Image/2023-01-18//Rocket.jpg) have sprouted.
+2023-01-19|[Red luttce](Image/2023-01-19/RedLettuce.jpg) has sprouted.
+2023-01-20|[Beetroot](Image/2023-01-20/Beetroot.jpg), [spring onion](Image/2023-01-20//SpringOnion.jpg) and [Tomato (GS)](Image/2023-01-20//Tomato(GS).jpg) have sprouted.
+2023-01-21|[Green Lettuce](Image/2023-01-21/GreenLettuce.jpg) and [Tomato (R)](Image/2023-01-21//Tomato(R).jpg) have sprouted.
+2023-01-22|Two of the three rocket seeds appear to have died.
+2023-01-23|Transition all seedlings to stage 2 (even if they haven't sprouted).
 
 ## Stage 2
 
@@ -81,33 +81,35 @@ We will be introducing the seedlings to nutients at half strength.
 
 ### Results
 
-|Date| Comment
-|--|--
-|2023-01-23|Initial.
-|2023-01-24|The seeds that previosuly sprouted are now reaching toward the light. I've rotated the tray to see if they track the sunlight.
-|2023-01-25|The skies were dark today, so nothing eventful happened.
-|2023-01-26|Nothing to report.
-|2023-01-27|I mixed another 2 litres of nutrient.
-|2023-01-28|We have at least one of every type of seeding sprouting.
-|2023-01-29|Nothing to report.
-|2023-01-30|Nothing to report.
-|2023-01-31|I may have damaged one of the cucumber plants by bening the stalk. Let's see if it recovers or dies.
-|2023-02-01|Nothing to report.
-|2023-02-02|Nothing to report.
-|2023-02-03|Nothing to report.
-|2023-02-04|I mixed another 2 litres of nutrient.
-|2023-02-05|Nothing to report.
-|2023-02-06|I wanted to transplant some of the seedlings to a trough but they haven't arrived yet. They are expected some time this week.
-|2023-02-07|Nothing to report.
-|2023-02-08|Nothing to report.
-|2023-02-09|Nothing to report.
-|2023-02-10|Nothing to report.
-|2023-02-11|Transplanted cucumber seedlings.
-|2023-02-12|I mixed another 2 litres of nutrient but this time increased to the growth stage.
+Date|Comment
+--|--
+2023-01-23|Initial.
+2023-01-24|The seeds that previosuly sprouted are now reaching toward the light. I've rotated the tray to see if they track the sunlight.
+2023-01-25|The skies were dark today, so nothing eventful happened.
+2023-01-26|Nothing to report.
+2023-01-27|I mixed another 2 litres of nutrient.
+2023-01-28|We have at least one of every type of seeding sprouting.
+2023-01-29|Nothing to report.
+2023-01-30|Nothing to report.
+2023-01-31|I may have damaged one of the cucumber plants by bening the stalk. Let's see if it recovers or dies.
+2023-02-01|Nothing to report.
+2023-02-02|Nothing to report.
+2023-02-03|Nothing to report.
+2023-02-04|I mixed another 2 litres of nutrient.
+2023-02-05|Nothing to report.
+2023-02-06|I wanted to transplant some of the seedlings to a trough but they haven't arrived yet. They are expected some time this week.
+2023-02-07|Nothing to report.
+2023-02-08|Nothing to report.
+2023-02-09|Nothing to report.
+2023-02-10|Nothing to report.
+2023-02-11|Transplanted cucumber seedlings.
+2023-02-12|I mixed another 2 litres of nutrient but this time increased to the growth stage.
 
 ## Stage 3
 
 ![Trough](Image/Trough.jpg)
+
+The net pots have not arrived, so having to eat my way through some yoghurt cups and making long slits to allow for the roots to grow. They should be arriving some time this week.
 
 ### Equipment
 
@@ -138,7 +140,7 @@ We will be introducing the seedlings to nutients at half strength.
 
 ### Results
 
-|Date| Comment
-|--|--
-|2023-02-11|Transplated 4 cucumber plants.
-|2023-02-12|2 of the cucumber plants looks like they died.
+Date| Comment
+--|--
+2023-02-11|Transplated 4 cucumber plants.
+2023-02-12|2 of the cucumber plants looks like they died.
