@@ -1,4 +1,4 @@
-# Seed Germination
+# Growing Step by Step
 
 ![Tray](Image/Tray.jpg)
 
@@ -58,7 +58,7 @@ The water level should be topped up at least once a day to just above the mesh w
 - PH down
 - PH meter
 - PH up
-- Pipets
+- Syringes
 - Seed sprouting tray
 - Seedling heat mat
 - Seedlings from stage 1
@@ -73,12 +73,11 @@ We will be introducing the seedlings to nutients at half strength.
 3. Add 2ml of FloraMicro (purple) nutrient to water and mix.
 4. Add 2ml of FloraBloom (red) nutrient to water and mix.
 5. Measure the pH of the water and use pH up or down accordingly. Target a pH of 6.0.
-6. Measure the EC/ppm of the nutrients.
+6. Measure the EC/ppm of the nutrients. My EC reading is 1600.
 7. Arrange the seedlings evenly on the tray mesh.
 8. Fill the tray so that the bottoms of all the sponges have water without drowning the roots.
 9. Place the tray on the mat and store in a warm area in direct sunlight.
 10. My pH reading after mixing the solution is 6.5 so I left it as is. We can use Ph up/down if needed.
-11. My EC reading is 1600.
 
 ### Results
 
@@ -102,3 +101,44 @@ We will be introducing the seedlings to nutients at half strength.
 |2023-02-07|Nothing to report.
 |2023-02-08|Nothing to report.
 |2023-02-09|Nothing to report.
+|2023-02-10|Nothing to report.
+|2023-02-11|Transplanted cucumber seedlings.
+|2023-02-12|I mixed another 2 litres of nutrient but this time increased to the growth stage.
+
+## Stage 3
+
+![Trough](Image/Trough.jpg)
+
+### Equipment
+
+- Coconut husks
+- Net pots
+- Polystyrene board
+- PH down
+- PH meter
+- PH up
+- Syringes
+- Seedlings from stage 2
+- TDS meter
+- 60cm Trough
+
+### Recipe
+
+1. Cut holes polystyrene boards so they they snuggly fit the troughs.
+2. Cut 4 evenly spaced round holes to accomodate the net pots.
+3. Fill each trough with 6 litres of water. The seedlings are now in the grwoth strage.
+4. Add 10.8ml of FloraGro (green) nutrient to water and mix.
+5. Add 7.2ml of FloraMicro (purple) nutrient to water and mix.
+6. Add 3.6ml of FloraBloom (red) nutrient to water and mix.
+7. Measure the pH of the water and use pH up or down accordingly. Target a pH of 6.0.
+8. Measure the EC/ppm of the nutrients. My EC reading is 2100.
+9. Transplant each seedling to the net pot and cover with coconut husk.
+10. Add water to each pot to moisten.
+11. Place pot into trough.
+
+### Results
+
+|Date| Comment
+|--|--
+|2023-02-11|Transplated 4 cucumber plants.
+|2023-02-12|2 of the cucumber plants looks like they died.
