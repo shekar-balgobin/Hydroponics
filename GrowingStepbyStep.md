@@ -104,6 +104,7 @@ Date|Comment
 2023-02-10|Nothing to report.
 2023-02-11|Transplanted cucumber seedlings.
 2023-02-12|I mixed another 2 litres of nutrient but this time increased to the growth stage.
+2023-02-13|Transplanted pepper seedlings.
 
 ## Stage 3
 
@@ -142,5 +143,6 @@ The net pots have not arrived, so having to eat my way through some yoghurt cups
 
 Date| Comment
 --|--
-2023-02-11|Transplated 4 cucumber plants.
+2023-02-11|Transplated 4 of 4 cucumber plants.
 2023-02-12|2 of the cucumber plants looks like they died.
+2023-02-12|Transplated 2 of 3 pepper plants.

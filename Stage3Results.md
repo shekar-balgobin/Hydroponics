@@ -6,11 +6,11 @@ Beetroot||||
 Cucumber|:green_heart:|:green_heart:|:broken_heart:|:broken_heart:
 Golden sunrise tomato||||
 Green lettuce||||
-Pepper||||
+Pepper|:green_heart:|:green_heart:||
 Raddish||||
 Rocket||||
 Spring onion||||
 Red lettuce||||
 Roma tomato||||
 
-Success rate: __2/21__
+Success rate: __6 of 21__
