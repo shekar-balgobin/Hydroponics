@@ -13,4 +13,4 @@ Spring onion|:green_heart:|:green_heart:|:broken_heart:|:broken_heart:
 Red lettuce|:green_heart:|:broken_heart:|:broken_heart:|:broken_heart:
 Roma tomato|:green_heart:|:green_heart:|:broken_heart:|:broken_heart:
 
-Success rate __21/40__
+Success rate __21 of 40__

@@ -2,11 +2,11 @@
 
 Seed|1|2|3|4
 --|--|--|--|--
-Beetroot||||
+Beetroot|:green_heart:
 Cucumber|:green_heart:|:green_heart:|:broken_heart:|:broken_heart:
 Golden sunrise tomato||||
 Green lettuce||||
-Pepper|:green_heart:|:green_heart:||
+Pepper|:green_heart:|:green_heart:|:green_heart:|
 Raddish||||
 Rocket||||
 Spring onion||||
