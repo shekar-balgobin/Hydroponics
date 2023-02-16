@@ -107,6 +107,7 @@ Date|Comment
 2023-02-13|Transplanted pepper seedlings.
 2023-02-14|Transplanted beetroot seedling.
 2023-02-15|Transplanted tomato seedlings.
+2023-02-16|Nothing to report. I was hoping to transplant a few more seedlings but the net cups have not arrived.
 
 ## Stage 3
 
@@ -150,3 +151,4 @@ Date| Comment
 2023-02-13|Transplated 3 pepper plants.
 2023-02-14|Transplated single beetroot plant.
 2023-02-15|Transplated 2 Golden Sunrise and 2 Roma tomato plants.
+2023-02-16|Nothing to report.
